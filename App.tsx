@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { StyleSheet, Text, View } from 'react-native';
 
 import Footer from './components/Footer/Footer';
-import GameLauncher from './components/GameLauncher/Gamelauncher';
+import GameLauncher from './components/GameLauncher/GameLauncher';
 import Header from './components/Header/Header';
 
 export default function App() {
