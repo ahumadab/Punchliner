@@ -12,8 +12,10 @@ If you haven't already, install the expo-cli:
 npm install --global expo-cli
 ```
 
+Then install dependencies:
+
 ```bash
-yarn global add expo-cli
+npm install
 ```
 
 # 🏃 How to build and run locally
